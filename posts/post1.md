@@ -8,7 +8,7 @@ cover_image: '/images/posts/Homoeopathie-bild.JPG'
 
 Die Homöopathie ist eine Form der alternativen Medizin, die natürliche Substanzen verdünnt, um eine heilende Reaktion bei einem Individuum hervorzurufen. Es besteht aus pflanzlichen, mineralischen oder tierischen Substanzen, die in geringer Menge verdünnt sind, um eine spezifische Reaktion bei einer Person zu erzeugen. Die Homöopathie wurde zur Behandlung vieler Erkrankungen wie Allergien, Asthma und chronischer Schmerzen eingesetzt. Einige Menschen verwenden Homöopathie auch, um ihnen beim Abnehmen oder Rauchen aufzuhören. 
 
-## Wie entstehen Homöopathie Arzneimittel
+## Wie entstehen Homöopathie Arzneimittel 
 
 Homöopathische Medikamente werden aus Pflanzen, Mineralien oder Tieren hergestellt. Homöopathische Medikamente stammen aus Pflanzen, Mineralien und Tieren und verwenden ein Prinzip, das als Gesetz der Ähnlichkeiten zur Behandlung von Krankheiten bezeichnet wird. Eine Substanz aus der Natur mit einer ähnlichen Chemie stimuliert ein Personen -Immunsystem. Zum Beispiel ist Cinchona das homöopathische Mittel gegen Malaria. Wenn eine Person einen glänzenden Hautausschlag hat, kann sie ein Heilmittel aus Cinchona einnehmen. Homöopathische Arzneimittel werden im Allgemeinen als ein geringes Risiko angesehen und aus Substanzen bestehen, die auf natürliche Weise in Pflanzen, Mineralien und Tieren enthalten sind.  
 

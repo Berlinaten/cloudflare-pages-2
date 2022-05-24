@@ -2,7 +2,7 @@
 title: 'Was ist eine Fersensporn '
 
 excerpt: 'Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist es und wie fühlt es sich an?'
-cover_image: '/images/posts/img4.jpg'
+cover_image: '/images/posts/Fersensporn.jpg'
 ---
 # Was ist eine Fersensporn 
 Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist es und wie fühlt es sich an? In diesem Artikel wird erklärt, was ein Fersensporn ist, wie er sich auf den Fuß auswirkt und wie Sie ihn minimieren können. Der erste Schritt ist, die Ursachen der Fersensporen zu verstehen. Fersensporns werden durch Bedingungen wie ankylosierende Spondylitis und diffuse idiopathische Skeletthyperostose verursacht. Wenn Sie einen Fersensporn bemerken, beantragen Sie einen Eiskack, um Schwellungen und Schmerzen zu reduzieren.

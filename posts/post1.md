@@ -1,16 +1,13 @@
 ---
-title: 'Demoseite 1'
+title: 'Die Vorteile der Homöopathie'
 date: '11.05.2022'
-excerpt: 'Das ist ein Text'
-cover_image: '/images/posts/img3.jpg'
+excerpt: 'Die Homöopathie ist eine Form der alternativen Medizin, die natürliche Substanzen verdünnt, um eine heilende Reaktion bei einem Individuum hervorzurufen.'
+cover_image: '/images/posts/Homoeopathie-bild.JPG'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+## Sie sind verwässert, um eine heilende Reaktion bei einem Individuum hervorzurufen
+
+Der homöopathische Verdünnungsprozess beinhaltet das Hinzufügen kleiner Mengen an Zutaten, um das Medikament zu stärken, was für konventionelle Medizin möglicherweise nicht intuitiv sein kann. In gewisser Weise funktionieren homöopathische Medikamente jedoch tatsächlich besser, wenn sie bis zu 100 Mal verdünnt werden
 
 1. Serrae enim Etruscam aquis
 2. Et premis et flumine frontem minatur oppressos

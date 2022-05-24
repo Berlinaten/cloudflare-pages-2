@@ -2,11 +2,11 @@
 title: 'Schamlippenverkleinerung, auch Labioplastik'
 date: '11.05.2022'
 excerpt: 'Schamlippenverkleinerung, auch Labioplastik genannt, ist ein chirurgischer Eingriff zur Verkleinerung der Schamlippen.'
-cover_image: '/images/posts/img4.jpg'
+cover_image: '/images/posts/Schamlippenverkleinerung-auch-Labioplastik.jpg'
 ---
 # Schamlippenverkleinerung, auch Labioplastik chirurgischer Eingriff zur Verkleinerung der Schamlippen
 
-Die Operation zur Schamlippenverkleinerung, auch Labioplastik genannt, ist ein Verfahren, das darauf abzielt, die Größe der Schamlippen zu reduzieren. Es gibt zwei Arten der Schamlippenverkleinerung: die Verkleinerung der äußeren, großen Schamlippen und die Verkleinerung der inneren, kleinen Schamlippen. Es ist wichtig, zwischen diesen beiden Arten von Operationen zu unterscheiden, da sie unterschiedliche Ziele und Auswirkungen haben.
+Die Operation zur Schamlippenverkleinerung [Schamlippenverkleinerung](https://www.dorow-clinic.de/schamlippenverkleinerung/), auch Labioplastik genannt, ist ein Verfahren, das darauf abzielt, die Größe der Schamlippen zu reduzieren. Es gibt zwei Arten der Schamlippenverkleinerung: die Verkleinerung der äußeren, großen Schamlippen und die Verkleinerung der inneren, kleinen Schamlippen. Es ist wichtig, zwischen diesen beiden Arten von Operationen zu unterscheiden, da sie unterschiedliche Ziele und Auswirkungen haben.
 
 ## Warum eine Schamlippenverkleinerung
 

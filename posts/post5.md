@@ -5,7 +5,7 @@ excerpt: 'Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist e
 cover_image: '/images/posts/Fersensporn.jpg'
 ---
 # Was ist eine Fersensporn 
-Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist es und wie fühlt es sich an? In diesem Artikel wird erklärt, was ein Fersensporn ist, wie er sich auf den Fuß auswirkt und wie Sie ihn minimieren können. Der erste Schritt ist, die Ursachen der Fersensporen zu verstehen. Fersensporns werden durch Bedingungen wie ankylosierende Spondylitis und diffuse idiopathische Skeletthyperostose verursacht. Wenn Sie einen Fersensporn bemerken, beantragen Sie einen Eiskack, um Schwellungen und Schmerzen zu reduzieren.
+Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist es und wie fühlt es sich an? In diesem Artikel wird erklärt, was ein [Fersensporn Behandlung] (https://www.tcm24.de/fersensporn/) ist, wie er sich auf den Fuß auswirkt und wie Sie ihn minimieren können. Der erste Schritt ist, die Ursachen der Fersensporen zu verstehen. Fersensporns werden durch Bedingungen wie ankylosierende Spondylitis und diffuse idiopathische Skeletthyperostose verursacht. Wenn Sie einen Fersensporn bemerken, beantragen Sie einen Eiskack, um Schwellungen und Schmerzen zu reduzieren.
 
 ## Wie entsteht Fersensporn
 Es ist ein dornartiges Knochernwachstum im Femur. Am häufigsten ist es das Ergebnis chronischer oder langfristiger Überbeanspruchung des Femurs. In einigen Fällen kann es schmerzhaft sein und entzündet sein. Wenn Sie eines dieser Symptome bemerken, besuchen Sie Ihren Arzt. Fersensporn kann leicht mit einem Ultraschall diagnostiziert werden.

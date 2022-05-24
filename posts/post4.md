@@ -20,7 +20,7 @@ Die Schamlippenverkleinerung ist ein relativ einfaches Verfahren, das in einer A
 
 ## Risiken einer Schamlippenverkleinerung
 
-Die Operation zur Verkleinerung der kleinen Schamlippen, auch bekannt als Labioplastik, ist ein übliches Verfahren, das viele Frauen durchführen, um die Größe ihrer inneren Schamlippen zu verkleinern. Während diese Operation im Allgemeinen sicher und effektiv ist, gibt es einige Risiken und potenzielle Komplikationen, die auftreten können. Einige dieser Risiken und Komplikationen umfassen Blutungen, Infektionen, Narbenbildung und Nervenschäden. Darüber hinaus besteht ein geringes Risiko, dass die Operation möglicherweise nicht die gewünschten Ergebnisse erzielt. Es ist wichtig, alle Risiken und möglichen Komplikationen mit Ihrem Chirurgen zu besprechen, bevor Sie sich einer Operation zur Verkleinerung der kleinen Schamlippen unterziehen.
+Die Operation zur Verkleinerung der kleinen Schamlippen, auch bekannt als Labioplastik, ist ein übliches Verfahren, das viele Frauen durchführen, um die Größe ihrer inneren Schamlippen zu verkleinern. Während diese Operation im Allgemeinen sicher und effektiv ist, gibt es einige Risiken und potenzielle Komplikationen, die auftreten können. Einige dieser Risiken und Komplikationen umfassen Blutungen, Infektionen, Narbenbildung und Nervenschäden. Darüber hinaus besteht ein geringes Risiko, dass die Operation möglicherweise nicht die gewünschten Ergebnisse erzielt. Es ist wichtig, alle Risiken und möglichen Komplikationen mit Ihrem Chirurgen zu besprechen, bevor Sie sich einer Operation zur Verkleinerung der kleinen Schamlippen unterziehen. 
 
 ## Nach einer Schamlippenverkleinerung Op
 

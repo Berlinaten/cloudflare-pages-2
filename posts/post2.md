@@ -1,6 +1,6 @@
 ---
 title: 'Demoseite 2'
-date: '10.05.2022'
+
 excerpt: 'Das ist ein anderer Text'
 cover_image: '/images/posts/img2.jpg'
 ---

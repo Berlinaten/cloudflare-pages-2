@@ -1,6 +1,6 @@
 ---
 title: 'Was ist eine Fersensporn '
-date: '09.03.2022'
+
 excerpt: 'Sie haben wahrscheinlich von einem Fersensporn gehört, aber was ist es und wie fühlt es sich an?'
 cover_image: '/images/posts/img4.jpg'
 ---

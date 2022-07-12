@@ -1,6 +1,6 @@
 ---
 title: 'Zahnmedizin was bedeutet das'
-
+date: '11.07.2022'
 excerpt: 'Zahnmedizin befassen Sie sich mit dem Bereich der Mund-, Kiefer- und Gesichtsmedizin'
 cover_image: '/images/posts/zahn.jpg'
 ---

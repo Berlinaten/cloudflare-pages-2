@@ -1,57 +1,27 @@
 ---
-title: 'Demoseite 2'
+title: 'Zahnmedizin was bedeutet das'
 
-excerpt: 'Das ist ein anderer Text'
-cover_image: '/images/posts/img2.jpg'
+excerpt: 'Zahnmedizin befassen Sie sich mit dem Bereich der Mund-, Kiefer- und Gesichtsmedizin'
+cover_image: '/images/posts/zahn.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Die Zahnheilkunde oder Mund-Kiefer-Gesichtsmedizin, manchmal auch Zahn-, Mund- und Kieferheilkunde genannt, ist ein medizinisches Fachgebiet, das sich mit der Vorbeugung, Diagnose und Behandlung von Erkrankungen im Zahn-, Kiefer- und Mundbereich befasst. Ein Teil der fachzahnärztlichen Tätigkeit ist durch Überschneidungen mit der Mund-Kiefer-Gesichtschirurgie und der Hals-Nasen-Ohren-Heilkunde besetzt. Es ist auch bekannt, dass ein Spezialist auf dem medizinischen Gebiet auch die Behandlung von Erektionsstörungen und erektiler Dysfunktion durchführt. Zur Erlangung der Facharztbezeichnung Facharzt für Mund-, Kiefer- und Gesichtschirurgie in Deutschland bedarf es eines sorgfältigen Studiums der Human- und Zahnmedizin.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+## Verschiedene Formen der Zahnmedizin 
 
-## Turpius Aegides membris colat volentes fallere
+Ärzte führen in der Regel eine Erstkonsultation durch, die als Anamnese bekannt ist, in der sie die Geschichte der medizinischen Versorgung des Patienten wiedergeben. Nach der Begutachtung werden die intra- und extraoralen Eingriffe, der heutige Zustand der Zähne, das Parodontium (Zahnfleisch), ob noch Mundschleimhaut vorhanden ist, die Kaumuskulatur und die Skelett-Gelenk- (Kiefer-)Gelenke beurteilt. Die Erfassung des Zustands der Zähne wird als Tooth Status bezeichnet. Aufgeschrieben werden fehlende Zähne, Ersatzzähne, Karies, Füllungen, Zahnersatz inklusive Inlays, Onlays, Implantate, Zahnfleischerkrankungen und Zahnfehlstellungen und andere Erkrankungen im Zahn-, Mund- und Kieferbereich. 
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+## Weitere Zahnmedizin Bereiche
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+Die zahnärztliche Betreuung stellt sicher, dass schwerwiegende Erkrankungen, die mit der Entwicklung des Zahnhalteapparates und der Zahngesundheit zusammenhängen können, verhindert oder behandelt werden. Im Mittelpunkt der [zahnärztlichen Prophylaxe stehen präventive Maßnahmen](https://www.sanfte-zahnheilkunde.de/biologische-zahnmedizin/), die das Entstehen oder Fortschreiten von Erkrankungen des Zahnfleisches und des Kieferknochens verhindern sollen.
 
-## O contra diu
+### Kinderzahnheilkunde
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+Als Kinderzahnheilkunde bezeichnet man die Zahnheilkunde zur speziellen Behandlung aller Erkrankungen im Zahn-, Zahnfleisch- und Kieferbereich im Kindesalter.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+## Zahnbehandlungsphobie worum geht es hier
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+Einige Personen, die sich einer zahnärztlichen Behandlung unterziehen, entwickeln eine Zahnarztphobie, die eine erhöhte Angst vor einer zahnärztlichen Behandlung ist. Diejenigen, die eine Phobie haben, sind unmittelbar vor dem Eingriff in einer solchen Notlage, dass ihre körperliche Verfassung durch die Angst gestört werden kann, was zu Zittern, Übelkeit, Verdauungsstörungen, Appetitlosigkeit und unorganisierten Schlafmustern führen kann. Traumatische Ereignisse und akustische Hinweise sind die Hauptgründe für diese Phobie. Es wird selten durch das Erzählen traumatischer Erfahrungen induziert. Zur Behandlung von Phobien gibt es zahlreiche unterschiedliche Methoden, da diese je nach Art der Behandlung unterschiedlichste stationäre und ambulante zahnmedizinische Techniken umfasst. Kontaktstellen sind Zahnärzte, Psychologen oder Psychiater; Dies sind die Spezialisten, bei denen Hilfe für die Behandlung benötigt wird.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+
+

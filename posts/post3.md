@@ -1,57 +1,31 @@
 ---
-title: 'Demoseite 3'
+title: 'Was ist die traditionelle chinesische Medizin'
 date: '12.05.2022'
-excerpt: 'Das ist ein neuer Text'
-cover_image: '/images/posts/img4.jpg'
+excerpt: 'und wie können Sie davon profitieren?'
+cover_image: '/images/posts/tcm1.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+Die traditionelle chinesische Medizin (TCM) ist eine alte Form der Medizin. Es verwendet Tier- und Pflanzenteile zusammen mit Akupunktur, um das Gleichgewicht von Yin und Yang wiederherzustellen. Viele glauben, dass es keinen logischen Handlungsmechanismus hat und nicht wissenschaftlich bewiesen ist. Aus diesem Grund wird es oft als Pseudowissenschaften angesehen. Aber was genau ist TCM und wie können Sie davon profitieren? Lesen Sie weiter, um es herauszufinden.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+## Es ist eine alte Form der Heilung
+Seit Tausenden von Jahren wird die traditionelle chinesische Medizin zur Vorbeugung und Heilung von Krankheiten eingesetzt. Basierend auf der Überzeugung, dass die Bodys Qi (Lebensenergie) durch Kanäle fließt, die Meridianer bezeichnen, versucht dieses alte System, ein Gleichgewicht und eine Harmonie zwischen den beiden Krankheiten zu steuern, die Krankheiten verursachen. In der Behandlung werden verschiedene Techniken, einschließlich Akupunktur, Kräutertherapie, Ernährung, Meditation, körperlicher Bewegung und Massage verwendet.
 
-## Turpius Aegides membris colat volentes fallere
+Die [Praxis der traditionellen chinesischen Medizin](https://www.hummelsberger.net/behandlung/chinesische-medizin-muenchen/) ist eine komplementäre Behandlungsform, die den Ganzkörper-Wohlbefinden betont und den Patienten ermöglicht, eine Rolle bei der Heilung zu spielen. Die Praxis basiert auf der Verwendung von Akupunktur, die dünne Metallnadeln verwendet, um die eigenen natürlichen Heilungsmechanismen zu stimulieren. Es behandelt auch mentale und emotionale Erkrankungen wie Stress und Angst. Es gilt als sicher, erschwinglich und effektiv für Menschen, die an einer Reihe von Krankheiten leiden, und wird weltweit immer beliebter.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+## Es verwendet getrocknete Pflanzen- und Tierteile
+In den frühen Tagen von TCM verwendeten Tier- und Pflanzenteile für Medikamente. Zusätzlich zu dem oben genannten wurden etwa 35 verschiedene Arten von Tier- und Pflanzenabfällen verwendet. Heute entwickelt sich TCM weiter, wenn mehr westliche Medizin populär wird. Die häufigsten verwendeten tierischen Teile sind Tier- und Pflanzenknochen, Haut, Sehnen und Herz. Die Geschichte von tierischen Medikamenten in China geht viel weiter zurück als Maos Bestiary, das während der Covid-19-Pandemie zum Presse ging. Obwohl der Zusammenhang zwischen Covid-19 und Wildtiere die Debatte über die Verwendung von Tierteilen in der traditionellen chinesischen Medizin ändert, ist die Praxis in China immer noch politisch einflussreich und lukrativ. Während die chinesischen Behörden die Verwendung von Bären Galle zur Behandlung von Covid-19 nicht verboten haben, förderten sie immer noch ihre Verwendung als Mittel.
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+## Ziel ist es, das Gleichgewicht von Yinyang aufrechtzuerhalten oder wiederherzustellen
+Nach der traditionellen chinesischen Medizin ist ein Gesundheitszustand ein direkter Ausgleich des Yin-Yang-Gleichgewichts. Ein Ungleichgewicht zwischen den beiden erzeugt einen pathologischen Zustand. Yin ist ungesund und Yang ist gesund, während eine Vorherrschaft des einen oder anderen ein Kalt- oder Hitze -Syndrom verursacht. Um ein Gleichgewicht zwischen Yin und Yang zu bestimmen, muss ein Arzt zunächst wissen, welche Ungleichgewichte in seinem Körper existieren können.
 
-## O contra diu
+Qi Gong ist eine Form der traditionellen chinesischen Medizin, die Atemtechniken, Meditation und Bewegung verwendet, um eine Heilungsumgebung zu schaffen. Es hat sich für eine Vielzahl von Krankheiten als hilfreich erwiesen. Während sich die traditionelle chinesische Medizin stark von der westlichen Medizin unterscheidet, unterscheiden sich ihre Behandlungen und Philosophie in mehrfacher Hinsicht. Westliche Ärzte behandeln ähnliche Infektionen mit denselben Antibiotika, während traditionelle chinesische Ärzte versuchen, die QI jedes Patienten auszugleichen.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+## Akupunktur
+Akupunktur ist eine Form der alternativen Medizin, die sich auf nadeln und stimulierenden strategischen Stellen am Körper stützt, um Schmerzen zu lindern und die natürliche Heilung zu stimulieren. Die Technik ist sicher, drogenfrei und beinhaltet die Stimulierung der Lebenskraft der Körper. Es hilft, den Fluss von Qi oder dem Chi durch Wege, die Meridiane genannt werden, wiederherzustellen. Da Akupunktur eine natürliche Form der Schmerzlinderung ist, ist dies für viele Frauen eine großartige Option.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+Akupunktur basiert auf der Philosophie, dass Krankheit aus blockiertem Chi (oder Energie) resultiert. Die Aufgabe der Akupunkteuristen besteht darin, diesen Energiefluss durch Einfügen dünner Nadeln in den Körper zu stimulieren. Manchmal kann die Akupunktur mit einem leichten elektrischen Strom oder Wärme kombiniert werden. Akupunktur wird häufig von integrativen Praktikern für viele Erkrankungen empfohlen, einschließlich chronischer Schmerzen. Es kann auch bei Übelkeit im Zusammenhang mit einer Chemotherapie helfen. Es kann auch die Symptome von Verdauungsstörungen und Asthma verringern.
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+## Es stützt sich auf die Fünf-Elemente-Theorie
+Einer der Eckpfeiler der traditionellen chinesischen Medizin ist die Fünf-Elemente-Theorie, die die Stadien eines sich ständig bewegenden Zyklus zwischen Yin und Yang beschreibt. Diese Elemente umfassen Holz, Feuer, Erde und Metall. Diese Theorie, die ihren Ursprung in alten chinesischen Beobachtungen hat, ist die Grundlage für alle TCM -Stile. Die Verwendung dieser Theorie, um die allgemeine Gesundheit der Person zu bestimmen und die zugrunde liegenden Ursachen von Krankheiten zu behandeln, ist der Eckpfeiler der Praxis.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+In der traditionellen chinesischen Medizin sind die fünf Elemente mit bestimmten internen Organen verbunden. Diese Elemente hängen in einem Erzeugerzyklus zusammen, und Ungleichgewichte in einer dieser Beziehungen können verschiedene Gesundheitsprobleme verursachen. Praktiker versuchen, das unausgeglichene Element in jeder Person zu identifizieren und es durch einen individuellen Behandlungsplan wiederherzustellen. Zum Beispiel ist die Leber mit dem Holzelement verbunden, während die Nieren auf Wasser angewiesen sind, um es zu nähren. Wenn diese beiden Quellen erschöpft sind, leidet die Leber.
